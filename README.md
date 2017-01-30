@@ -1,2 +1,1 @@
-# password-protector-landing
-Landing page for Password protector
+# Password protector landing page
